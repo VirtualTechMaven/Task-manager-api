@@ -185,7 +185,12 @@ The API returns proper HTTP status codes for errors:
 
 ---
 
+## License
+This project is licensed under the **MIT License**.
+
+---
+
 ## Author
 Chioma Princess Ohwo
-Full-stack Developer
+Full-stack Developer 
 thevirtualtechmaven
